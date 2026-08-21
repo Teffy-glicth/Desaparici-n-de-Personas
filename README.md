@@ -1,2 +1,2 @@
-# Desaparici-n-de-Personas
+# Desaparicion-de-Personas
 Minería de datos
